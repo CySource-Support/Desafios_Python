@@ -80,3 +80,96 @@ Imprima na tela as informações, dispostas conforme o exemplo abaixo, no exempl
 |Total de descontos | R$ 165,00|
 |Salário Líquido | R$ 935,00|
 ---
+## Desafio 13
+### Dificuldade Fácil
+– Faça um Programa que leia um número e exiba o dia correspondente da semana. (1- Domingo , 2- Segunda, etc.) se digitar outro valor deve aparecer “valor inválido)
+---
+## Desafio 14
+### Dificuldade Intermediário
+- Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:  
+
+Média de aproveitamento|Conceito 
+:---:|:---:
+Entre 9.0 e 10.0|A
+Entre 7.5 e 9.0|B
+Entre 6.0 e 7.5|C
+Entre 4.0 e 6.0|D
+Entre 4.0 e 0|E                                  E  
+
+- O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C “REPROVADO” se o conceito for D ou E. 
+---
+## Desafio 15
+### Dificuldade Intermediário
+- Faça um programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno. Dicas:
+
+  * Três lados formam um triangulo quando a soma de quaisquer dos dois lados é maior que o terceiro.
+  * Triângulo Equilátero: três lados iguais;
+  * Triângulo Isósceles: quaisquer dois lados iguais;
+  * Triângulo Escaleno: três lados diferentes;
+---
+## Desafio 16
+### Dificuldade Intermediário
+- Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:
+  
+  1. Se o usuário informar o valor de A igual a zero. a equação não e do segundo grau e o programa não deve fazer pedir os demais valores, sendo encerrado;
+  2. Se o delta calculado for negativo, a equação não possui raízes reais. Informe ao usuário e encerre o programa;
+  3. Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe ao usuário;
+  4. Se o delta for positivo, a equação possui duas raízes reais; informe-as ao usuário;    
+---
+## Desafio 17
+### Dificuldade Intermediário
+- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano e ou não bissexto. [Clique para ver como calcular isso.](https://escolakids.uol.com.br/matematica/calculo-do-ano-bissexto.htm)
+---
+## Desafio 18
+### Dificuldade Intermediário
+- Faça um Programa que peça um número inteiro e determine se ele e par ou ímpar. Dica: utilize o operador módulo (resto da divisão).
+---
+## Desafio 19
+### Dificuldade Fácil
+- Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número e:
+  * Par ou ímpar;
+  * Positivo ou negativo;
+---
+## Desafio 20
+### Dificuldade Fácil
+- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+
+  * “Telefonou para a vítima? “
+  * “Esteve no local do crime?”
+  * “Mora perto da vítima? “
+  * “Devia para a vítima? “
+  * “Já trabalhou com a vítima? “
+
+- O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como “Suspeita”, entre 3 e 4 como “Cúmplice” e 5 como “Assassino“. Caso contrário, ele será classificado como “Inocente“.  
+---
+## Desafio 21
+### Dificuldade Intermediário
+- Um posto está vendendo combustíveis com a seguinte tabela de descontos:   
+
+Álcool|
+---:|---
+Até 20 litros|Desconto de 3% por litro
+Acima de 20 litros|Desconto de 5% por litro 99.
+Gasolina|
+---:|---
+Até 20 litros|Desconto de 4% por litro
+Acima de 20 litros|Desconto de 6% por litro
+
+- Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A - álcool. G - gasolina), calcule e imprima o valor a ser pago pelo cliente.  
+---
+## Desafio 22
+### Dificuldade Fácil
+- Faça um programa que peça dois números ao usuário e mostre qual o maior e qual o menor 
+---
+## Desafio 23
+### Dificuldade Fácil
+- Faça um programa que receba três inteiros e diga qual deles é o maior e qual o menor. Consegue criar mais de uma solução?  
+---
+## Desafio 24
+### Dificuldade Fácil
+- Escreva um programa em C que recebe um inteiro e diga se é par ou ímpar. Use o operador matemático % (resto da divisão ou módulo) e o teste condicional if.  
+---
+## Desafio 25
+### Dificuldade Fácil
+- Escreva um programa que pergunte o raio de uma circunferência, e sem seguida mostre o diâmetro, comprimento e área da circunferência  
+---
