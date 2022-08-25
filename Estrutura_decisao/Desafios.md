@@ -59,7 +59,7 @@ A mensagem “Reprovado” se a média for menor de do que sete;
     3. O valor do aumento;
     4. O novo salário, após o aumento.
 ---
-## Desafio 10
+## Desafio 12
 ### Dificuldade Difícil
 - Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do salário bruto, mas não é descontado (é a empresa que deposita.)
  O salário líquido corresponde ao salário bruto menos os descontos O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
