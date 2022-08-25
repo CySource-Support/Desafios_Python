@@ -82,7 +82,7 @@ Imprima na tela as informações, dispostas conforme o exemplo abaixo, no exempl
 ---
 ## Desafio 13
 ### Dificuldade Fácil
-– Faça um Programa que leia um número e exiba o dia correspondente da semana. (1- Domingo , 2- Segunda, etc.) se digitar outro valor deve aparecer “valor inválido)
+- Faça um Programa que leia um número e exiba o dia correspondente da semana. (1- Domingo , 2- Segunda, etc.) se digitar outro valor deve aparecer “valor inválido"
 ---
 ## Desafio 14
 ### Dificuldade Intermediário
@@ -94,7 +94,7 @@ Entre 9.0 e 10.0|A
 Entre 7.5 e 9.0|B
 Entre 6.0 e 7.5|C
 Entre 4.0 e 6.0|D
-Entre 4.0 e 0|E                                  E  
+Entre 4.0 e 0|E
 
 - O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C “REPROVADO” se o conceito for D ou E. 
 ---
@@ -146,15 +146,10 @@ Entre 4.0 e 0|E                                  E
 ### Dificuldade Intermediário
 - Um posto está vendendo combustíveis com a seguinte tabela de descontos:   
 
-Álcool|___
----:|---
-Até 20 litros|Desconto de 3% por litro
-Acima de 20 litros|Desconto de 5% por litro 99.
-
-Gasolina|___
----:|---
-Até 20 litros|Desconto de 4% por litro
-Acima de 20 litros|Desconto de 6% por litro
+Condição|Álcool| Gasolina
+---:|:---:|:---:
+Até 20 litros|Desconto de 3% por litro|Desconto de 4% por litro
+Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 
 - Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A - álcool. G - gasolina), calcule e imprima o valor a ser pago pelo cliente.  
 ---
