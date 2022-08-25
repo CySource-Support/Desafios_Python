@@ -146,11 +146,12 @@ Entre 4.0 e 0|E                                  E
 ### Dificuldade Intermediário
 - Um posto está vendendo combustíveis com a seguinte tabela de descontos:   
 
-Álcool|
+Álcool|___
 ---:|---
 Até 20 litros|Desconto de 3% por litro
 Acima de 20 litros|Desconto de 5% por litro 99.
-Gasolina|
+
+Gasolina|___
 ---:|---
 Até 20 litros|Desconto de 4% por litro
 Acima de 20 litros|Desconto de 6% por litro
