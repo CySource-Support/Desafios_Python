@@ -9,3 +9,8 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 - [ ] Sexta-feira - [**Matrizes**](Matrizes)
 
 > Estamos atualizando os desafios!
+
+## Como enviar seus códigos.
+* _Primeiro:_ faça um fork desse projeto.
+* _Segundo:_ faça um **Pull Request** com a solução do desafio.
+* _Terceiro:_ se tiver duvidas é só perguntar
