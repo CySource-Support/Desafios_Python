@@ -1,0 +1,129 @@
+## Desafio 1
+### Dificuldade Fácil
+- Leia uma matriz 10 x 10 e escreva a localização (linha e a coluna) do maior valor.
+---
+## Desafio 2
+### Dificuldade Intermediário
+- Declare uma matriz 5 x 5. Preencha com 1 a diagonal principal e com 0 os demais elementos. Escreva ao final a matriz obtida.
+---
+## Desafio 3
+### Dificuldade Intermediário
+- Leia duas matrizes 4 x 4 e escreva uma terceira com os 4 maiores elementos entre as primeiras
+---
+## Desafio 4
+### Dificuldade Fácil
+- Leia uma matriz 6 x 6, conte e escreva quantos valores maiores que 10 ela possui.
+---
+## Desafio 5
+### Dificuldade Fácil
+- Leia uma matriz 20 x 20. Leia também um valor X. O programa deverá fazer uma busca desse valor na matriz e, ao final escrever a localização (linha e coluna) ou uma mensagem de “não encontrado”.
+---
+## Desafio 6
+### Dificuldade Fácil
+- Leia uma matriz 4 x 4 e troque os valores da 1ª.linha pelos da 4ª.coluna, vice-e-versa. Escrever ao final a matriz obtida
+---
+## Desafio 7
+### Dificuldade Difícil
+- Leia uma matriz 8 x 8 e a transforme numa matriz triangular inferior , atribuindo zero a todos os elementos acima da diagonal principal, escrevendo-a ao final
+---
+## Desafio 8
+### Dificuldade Difícil
+- Leia uma matriz 5 x 5 e faça uma troca entre as diagonais superior e inferior. Escreva-a ao final.
+---
+## Desafio 9
+### Dificuldade Difícil
+- Leia duas matrizes 10 x 10 e faça uma substituição entre a diagonal inferior da primeira coma diagonal superior da segunda.
+---
+<!--
+## Desafio 10
+### Dificuldade Intermediário
+- Leia uma matriz 8x 8 e escreva o maior elemento da diagonal principal e a soma dos elementos da diagonal secundaria.
+---
+## Desafio 11
+### Dificuldade Intermediário
+- Leia uma matriz 6 x 6 e atribuir o valor 0 para os valores negativos encontrados fora das diagonais principal e secundaria.
+---
+## Desafio 12
+### Dificuldade Intermediário
+- Leia uma matriz 50 x 2, onde cada coluna corresponde a um lado de um triangulo retângulo. Declare um vetor que contenha a área dos respectivos triângulos e o escreva.
+---
+## Desafio 13
+### Dificuldade Fácil
+- Leia duas matrizes 20 x 20 e escreva os valores da primeira que ocorrem em qualquer posição da segunda.
+---
+## Desafio 14
+### Dificuldade Difícil
+- Considere uma matriz de distância entre cidades 6 x 6:
+.|1. Cáceres|2. BBugres|3. Cuiabá|4. VGrande|5. Tangará|6. PLacerda
+:-----:|:-----:|:-----:|:----:|:-----:|:-----:|:---:
+1. Cáceres|       |63     |210   |190    |       |190
+2. BBugres|63     |       |160   |150    |95     | 
+3. Cuiabá |210    |160    |      |       |10     |  
+4. VGrande|190    |150    |10    |       |       | 
+5. Tangará| 95    |       |      |       |80     |
+6. PLacerda|190   |       |      |80     |       | 
+  - Considere também um vetor de viagem indo de Cuiabá até Cáceres pela seguinte rota:
+
+.|.|.|.|.|.|.
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+Índice|1|2|3|4|5|6
+Cidade|3|4|2|5|6|1
+  - Faça um programa que leia a matriz e o vetor e calcule a distancia percorrida durante a viagem.
+---
+## Desafio 15
+### Dificuldade Intermediário
+- Leia uma matriz 100 x 10 que se refere respostas de 10 questões de múltipla escolha, referentes a 100 alunos. Leia também um vetor de 10 posições contendo o gabarito de respostas que podem ser a, b, c ou d. Seu programa deverá comparar as respostas de cada candidato com o gabarito e emitir um vetor Resultado, contendo a pontuação correspondente.
+---
+## Desafio 16
+### Dificuldade Intermediário
+- Leia duas matrizes 4 x 4 e verifique se uma é palíndromo, isto é,  sua leitura a partir de qualquer direção sempre apresentara a mesma seqüência.
+   EX:                  
+    SATOR
+    AREPO
+    TENET
+    OPERA
+    ROTAS
+---
+## Desafio 17
+### Dificuldade Intermediário
+- Criando um tabuleiro de Jogo da Velha. Crie um tabuleiro de jogo da velha, usando uma matrizes de caracteres (char) 3×3, onde o usuário pede o número da linha (1 até 3) e o da coluna (1 até 3). A cada vez que o usuário entrar com esses dados, colocar um ‘X’ ou ‘O’ no local selecionado.
+---
+## Desafio 18
+### Dificuldade Intermediário
+- Um número palíndromo é aquele que, se lido de trás para frente e de frete para trás, é o mesmo.
+  Exemplos: 2112, 666, 2442 etc…
+  Sabendo disso, crie um programa que pergunte ao usuário um intervalo, por exemplo: Inicio – 30, Fim – 2000;
+  Com base neste intervalo, verifique quantos palíndromos existem e exiba-os na tela.
+---
+## Desafio 19
+### Dificuldade Intermediário
+- Faça um jogo de batalha naval, utilize as seguinte regras:
+  – O primeiro usuário será o que vai configurar o tabuleiro inserindo os navios.
+  – O tabuleiro deve ter 8×8
+  – Quando inserido todos os navios o restante será considerado como “água”.
+  – Cada navio pode ocupar apenas 1 posição
+  – O jogador deve respeitar o espaço de 1 célula entre os navios
+  – O jogador que irá descobrir onde os navios estão tem apenas 10 tiros
+  – O jogador 1 pode posicionar 5 navios
+---
+## Desafio 20
+### Dificuldade Intermediário
+- Crie um algoritmo que lê 10 números inteiros. Ao final da leitura ele deve fornecer um menú com os seguintes itens:
+  1. Adicionar um número
+  2. Remover um número
+  3. Incrementar um número
+
+  - No primeiro menú, você deve adicionar um número ao vetor. No entanto este vetor deve permanecer em ordem Crescente. 
+
+  - Já no segundo menú, ao seleciona-lo, o usuário deverá informar a posição do numero ou então o próprio numero e seu sistema deve remove-lo. Mas cuidado, você deverá reposicionar os números restantes para que não haja “buracos” no vetor. Além disso, o vetor deve permanecer em ordem crescente.
+
+  - Na terceira e ultima opção, você deve perguntar ao usuário qual numero ele deseja incrementar e de quanto seria este incremento. Então seu sistema deve incrementar o número e manter o vetor organizado em ordem crescente.
+---
+## Desafio 21
+### Dificuldade Intermediário 25- Crie uma agenda que armazena, código da pessoa, número do telefone, idade. Sua agenda deve possibilitar:
+(1) – inserir um contato
+(2) – Remover um contato
+(3) – Editar um contato
+(4) – buscar um contato pelo Código.
+---
+-->
