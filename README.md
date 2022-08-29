@@ -5,12 +5,12 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 - [x] Segunda-feira - [**Estrutura de decisão**](Estrutura_decisao/Desafios.md) `if elif else`
 - [x] Terça-feira - [**Loops**](Loops/) `while for`
 - [x] Quarta-feira - [**Funções**](Funcoes/)
-- [ ] Quinta-feira - [**Vetores**](Vetores)
-- [ ] Sexta-feira - [**Matrizes**](Matrizes)
+- [x] Quinta-feira - [**Vetores**](Vetores)
+- [x] Sexta-feira - [**Matrizes**](Matrizes)
 
 > Estamos atualizando os desafios!
 
 ## Como enviar seus códigos.
 * _Primeiro:_ faça um fork desse projeto.
 * _Segundo:_ faça um **Pull Request** com a solução do desafio.
-* _Terceiro:_ se tiver duvidas é só perguntar
+* _Terceiro:_ duvidas é só perguntar
