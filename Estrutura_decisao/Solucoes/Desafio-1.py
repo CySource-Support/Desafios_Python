@@ -1,4 +1,4 @@
-# Solution challenge one by Jonas
+# Challenge Solution by Jonas
 
 num1 = int(input("Insert the first number: "))
 num2 = int(input("Insert the second number: "))
