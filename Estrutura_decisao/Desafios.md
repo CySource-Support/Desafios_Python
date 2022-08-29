@@ -169,3 +169,7 @@ Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 ### Dificuldade Fácil
 - Escreva um programa que pergunte o raio de uma circunferência, e sem seguida mostre o diâmetro, comprimento e área da circunferência  
 ---
+## Desafio 26
+### Dificuldade Fácil 
+- Para doar sangue é necessário ter entre 18 e 67 anos, mulher ter mais de 6 meses da ultima doações e homem ter mais de 3 meses da ultima doações. Faça um aplicativo que diga se ela pode doar sangue ou não.
+---

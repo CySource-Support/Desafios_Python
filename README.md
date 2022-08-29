@@ -12,5 +12,5 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 
 ## Como enviar seus códigos.
 * _Primeiro:_ faça um fork desse projeto.
-* _Segundo:_ faça um **Pull Request** com a solução do desafio.
-* _Terceiro:_ duvidas é só perguntar
+* _Segundo:_ faça um **Pull Request** com a solução do desafio na **Branch Challenges**.
+* _Terceiro:_ se tiver duvidas é só perguntar.
