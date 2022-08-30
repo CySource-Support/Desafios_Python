@@ -133,4 +133,53 @@
   * A porcentagem de pessoas com olhos azuis entre a s pessoas analisadas;
   * A quantidade de pessoas ruivas que não possuem olhos azuis; 
 ---
+## Desafio 19
+### Dificuldade Fácil
+- Faça um programa que receba dez números e usando laços de repetição calcule e mostre a quantidade de números entre 30 e 90. 
+<!--
+## Desafio 20
+### Dificuldade Intermediário
+- Faça um programa que receba dez idades, pesos e Alturas e que calcule e mostre:
+  * A média das idades das dez pessoas;
+  * A quantidade de pessoas com peso superior a 90 quilos e altura inferior a 1,50;
+  * A porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1,90;  
+---
 
+## Desafio 21
+### Dificuldade Intermediário
+- Faça um programa que receba a idade e o sexto de sete pessoas e que calcule e mostre:
+  * A idade média do grupo;
+  * A idade média das mulheres;
+  * A idade média dos homens;  
+---
+
+## Desafio 22
+### Dificuldade Difícil
+- Faça um programa que receba o valor de um carro e mostre uma tabela com os seguintes dados: preço final, quantidade de parcelas e valor da parcela. Considere o seguinte:
+
+  * O preço final para compra à vista tem um desconto de 20%;
+  * A quantidades de parcelas pode ser: 6, 12, 18, 24, 30, 36, 42, 48, 54 e 60.
+  - Os percentuais de acréscimo seguem a tabela a seguir.
+    Quantidade de parcelas | Percentual de acréscimo sobre o preço final
+    ---:|:---
+      6	|3%
+      12|	6%
+      18|	9%
+      24|	12%
+      30|	15%
+      36|	18%
+      42|	21%
+      48|	24%
+      54|	27%
+      60|	30%
+---
+
+## Desafio 23
+### Dificuldade Intermediário
+- Faça um programa que receba várias idades e que calcule e mostre a média das idades digitadas. Finalize digitando a idade igual a zero  
+---
+
+## Desafio 24
+### Dificuldade Difícil
+- Faça um programa que receba um conjunto de valores inteiros e positivos, com o intervalo formado pelo número imprima na tela todos os números primos existentes  
+-->
