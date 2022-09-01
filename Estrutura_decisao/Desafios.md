@@ -11,7 +11,7 @@
 - Faça um programa que verifique (usando if e else) se uma letra digitada é “F” ou “M”. Conforme a letra escrever: F – Feminino, M- Masculino, Sexo inválido. 
 ---
 ## Desafio 4
-### DificuldadeFácil
+### Dificuldade Fácil
 - Faça um programa que verifique (usando if e else) se uma letra digitada é vogal ou consoante.  
 ---
 ## Desafio 5
