@@ -34,11 +34,12 @@
 ### Dificuldade Difícil
 - Leia duas matrizes 10 x 10 e faça uma substituição entre a diagonal inferior da primeira coma diagonal superior da segunda.
 ---
-<!--
+
 ## Desafio 10
 ### Dificuldade Intermediário
 - Leia uma matriz 8x 8 e escreva o maior elemento da diagonal principal e a soma dos elementos da diagonal secundaria.
 ---
+<!--
 ## Desafio 11
 ### Dificuldade Intermediário
 - Leia uma matriz 6 x 6 e atribuir o valor 0 para os valores negativos encontrados fora das diagonais principal e secundaria.
