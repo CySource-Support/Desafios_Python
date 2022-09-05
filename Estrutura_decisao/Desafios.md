@@ -173,3 +173,6 @@ Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 ### Dificuldade Fácil 
 - Para doar sangue é necessário ter entre 18 e 67 anos, mulher ter mais de 6 meses da ultima doações e homem ter mais de 3 meses da ultima doações. Faça um aplicativo que diga se ela pode doar sangue ou não.
 ---
+## Desafio 27
+### Dificuldade Fácil
+- Escreva um programa que pergunte o dia, mês e ano do aniversário de uma pessoa e diga se a data é válida ou não. Caso não seja, diga o motivo. Suponha que todos os meses tem 31 dias e que estejamos no ano de 2013.
