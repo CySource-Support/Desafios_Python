@@ -136,7 +136,7 @@
 ## Desafio 19
 ### Dificuldade Fácil
 - Faça um programa que receba dez números e usando laços de repetição calcule e mostre a quantidade de números entre 30 e 90. 
-<!--
+
 ## Desafio 20
 ### Dificuldade Intermediário
 - Faça um programa que receba dez idades, pesos e Alturas e que calcule e mostre:
@@ -144,7 +144,7 @@
   * A quantidade de pessoas com peso superior a 90 quilos e altura inferior a 1,50;
   * A porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1,90;  
 ---
-
+<!--
 ## Desafio 21
 ### Dificuldade Intermediário
 - Faça um programa que receba a idade e o sexto de sete pessoas e que calcule e mostre:
