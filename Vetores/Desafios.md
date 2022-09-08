@@ -31,11 +31,12 @@
 ### Dificuldade Intermediário
 - Leia um vetor de 40 posições e acumule os valores do primeiro elemento no segundo, deste no terceiro e assim por diante. Ao final, escreva o vetor obtido.
 ---
-<!--
+
 ## Desafio 9
 ### Dificuldade Fácil
 - Leia um vetor contendo letras de uma frase inclusive os espaços em branco. Retirar os espaços em branco do vetor e depois escreve-los.
 ---
+<!--
 ## Desafio 10
 ### Dificuldade Difícil
 - Leia um vetor de 5 posições contendo os caracteres de um numero. Em seguida escreva esse numero por extenso.
