@@ -39,11 +39,12 @@
 ### Dificuldade Intermediário
 - Leia uma matriz 8x 8 e escreva o maior elemento da diagonal principal e a soma dos elementos da diagonal secundaria.
 ---
-<!--
+
 ## Desafio 11
 ### Dificuldade Intermediário
 - Leia uma matriz 6 x 6 e atribuir o valor 0 para os valores negativos encontrados fora das diagonais principal e secundaria.
 ---
+<!--
 ## Desafio 12
 ### Dificuldade Intermediário
 - Leia uma matriz 50 x 2, onde cada coluna corresponde a um lado de um triangulo retângulo. Declare um vetor que contenha a área dos respectivos triângulos e o escreva.
