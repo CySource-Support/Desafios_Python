@@ -147,7 +147,7 @@
 
 ## Desafio 21
 ### Dificuldade Intermediário
-- Faça um programa que receba a idade e o sexto de sete pessoas e que calcule e mostre:
+- Faça um programa que receba a idade e o sexo de sete pessoas e que calcule e mostre:
   - A idade média do grupo;
   - A idade média das mulheres;
   - A idade média dos homens;  
