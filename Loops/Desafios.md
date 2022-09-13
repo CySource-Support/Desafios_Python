@@ -144,15 +144,15 @@
   * A quantidade de pessoas com peso superior a 90 quilos e altura inferior a 1,50;
   * A porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1,90;  
 ---
-<!--
+
 ## Desafio 21
 ### Dificuldade Intermediário
 - Faça um programa que receba a idade e o sexto de sete pessoas e que calcule e mostre:
-  * A idade média do grupo;
-  * A idade média das mulheres;
-  * A idade média dos homens;  
+  - A idade média do grupo;
+  - A idade média das mulheres;
+  - A idade média dos homens;  
 ---
-
+<!--
 ## Desafio 22
 ### Dificuldade Difícil
 - Faça um programa que receba o valor de um carro e mostre uma tabela com os seguintes dados: preço final, quantidade de parcelas e valor da parcela. Considere o seguinte:
