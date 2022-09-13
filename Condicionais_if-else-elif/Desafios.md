@@ -4,7 +4,7 @@
 
 ### Dificuldade Fácil
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que peça dois números e verifique (usando if e else) e imprima o maior deles
 
@@ -14,7 +14,7 @@
 
 ### Dificuldade Fácil
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que peça um valor e mostre na tela se o valor é positivo ou negativo 
 
@@ -24,7 +24,7 @@
 
 ### Dificuldade Fácil
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que verifique (usando if e else) se uma letra digitada é “F” ou “M”. Conforme a letra escrever: F – Feminino, M- Masculino, Sexo inválido. 
 
@@ -34,7 +34,7 @@
 
 ### Dificuldade Fácil
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que verifique (usando if e else) se uma letra digitada é vogal ou consoante.  
 
@@ -44,7 +44,7 @@
 
 ### Dificuldade Fácil 
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa para a leitura de duas notas parciais de um aluno.  
 
@@ -58,7 +58,7 @@
 
 ### Dificuldade Intermediário
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que leia três números, verifique (usando if e else), e mostre o maior deles.  
 
@@ -68,7 +68,7 @@
 
 ### Dificuldade Intermediário
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que leia três números, verifique (usando if e else) e mostre o maior e o menor deles; 
 
@@ -78,7 +78,7 @@
 
 ### Dificuldade Fácil
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre o mais barato.  
 
@@ -88,7 +88,7 @@
 
 ### Dificuldade Intermediário
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que leia três números e mostre-os em ordem decrescente.  
 
@@ -98,7 +98,7 @@
 
 ### Dificuldade Fácil
 
-[x] Concluído
+- [x] Concluído
 
 - Faça um programa que pergunte em que turno você estuda. Peça para digitar **M-matutino** ou **V-vespertino** ou **N-noturno**. Imprima a mensagem **“Bom dia!”** ou  **“Boa Noite”** ou **“Valor inválido”**, conforme o caso.  
 
@@ -108,7 +108,7 @@
 
 ### Dificuldade Difícil
 
-[ ] Concluído
+- [ ] Concluído
 
 - As organizações CSM resolveram dar um aumento de salário aos seus colaboradores e lhe contrataram para desenvolver o programa que calculará os reajustes.  
 
@@ -130,7 +130,7 @@
 
 ### Dificuldade Difícil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do salário bruto, mas não é descontado (é a empresa que deposita.)
  O salário líquido corresponde ao salário bruto menos os descontos O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
@@ -157,7 +157,7 @@
 
 ### Dificuldade Fácil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um Programa que leia um número e exiba o dia correspondente da semana. **(1- Domingo , 2- Segunda, etc.)** se digitar outro valor deve aparecer **“valor inválido"**.
 
@@ -167,7 +167,7 @@
 
 ### Dificuldade Intermediário
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:  
 
@@ -187,7 +187,7 @@ Entre 4.0 e 0|E
 
 ### Dificuldade Intermediário
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: **equilátero, isósceles** ou **escaleno.**
 - Dicas:
@@ -202,7 +202,7 @@ Entre 4.0 e 0|E
 
 ### Dificuldade Intermediário
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um programa que calcule as raízes de uma equação do segundo grau, na forma **ax2 + bx + c**. O programa deverá pedir os valores de **a, b** e **c** e fazer as consistências, informando ao usuário nas seguintes situações:
   
@@ -217,7 +217,7 @@ Entre 4.0 e 0|E
 
 ### Dificuldade Intermediário
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano e ou não bissexto. [Clique para ver como calcular isso.](https://escolakids.uol.com.br/matematica/calculo-do-ano-bissexto.htm)
 
@@ -227,7 +227,7 @@ Entre 4.0 e 0|E
 
 ### Dificuldade Intermediário
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um Programa que peça um número inteiro e determine se ele e **par** ou **ímpar.**
 - Dica: utilize o operador módulo (resto da divisão).
@@ -238,7 +238,7 @@ Entre 4.0 e 0|E
 
 ### Dificuldade Fácil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
   - Par ou ímpar;
@@ -250,7 +250,7 @@ Entre 4.0 e 0|E
 
 ### Dificuldade Fácil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
 
@@ -268,7 +268,7 @@ Entre 4.0 e 0|E
 
 ### Dificuldade Intermediário
 
-[ ] Concluído
+- [ ] Concluído
 
 - Um posto está vendendo combustíveis com a seguinte tabela de descontos:   
 
@@ -285,7 +285,7 @@ Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 
 ### Dificuldade Fácil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Faça um programa que peça dois números ao usuário e mostre qual o maior e qual o menor 
 
@@ -303,7 +303,7 @@ Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 
 ### Dificuldade Fácil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Escreva um programa em C que recebe um inteiro e diga se é par ou ímpar. Use o operador matemático % (resto da divisão ou módulo) e o teste condicional if.  
 
@@ -313,7 +313,7 @@ Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 
 ### Dificuldade Fácil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Escreva um programa que pergunte o raio de uma circunferência, e sem seguida mostre o diâmetro, comprimento e área da circunferência  
 
@@ -331,7 +331,7 @@ Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 
 ### Dificuldade Fácil
 
-[ ] Concluído
+- [ ] Concluído
 
 - Escreva um programa que pergunte o dia, mês e ano do aniversário de uma pessoa e diga se a data é válida ou não. Caso não seja, diga o motivo. Suponha que todos os meses tem 31 dias e que estejamos no ano de 2013.
 
@@ -341,7 +341,7 @@ Acima de 20 litros|Desconto de 5% por litro|Desconto de 6% por litro
 
 ### Dificuldade Fácil 28
 
-[ ] Concluído
+- [ ] Concluído
 
 - Crie um programa que peça um número ao usuário e armazene ele na variável x. Depois peça outro número e armazene na variável y. Mostre esses números. Em seguida, faça com que x passe a ter o valor de y, e que y passe a ter o valor de x.
 
