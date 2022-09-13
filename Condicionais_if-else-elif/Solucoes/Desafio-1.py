@@ -1,4 +1,5 @@
 # Challenge Solution by Jonas
+# Faça um programa que peça dois números e verifique (usando if e else) e imprima o maior deles
 
 num1 = int(input("Insert the first number: "))
 num2 = int(input("Insert the second number: "))
