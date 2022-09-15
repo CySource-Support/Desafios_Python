@@ -36,11 +36,12 @@
 ### Dificuldade Fácil
 - Leia um vetor contendo letras de uma frase inclusive os espaços em branco. Retirar os espaços em branco do vetor e depois escreve-los.
 ---
-<!--
+
 ## Desafio 10
 ### Dificuldade Difícil
 - Leia um vetor de 5 posições contendo os caracteres de um numero. Em seguida escreva esse numero por extenso.
 ---
+<!--
 ## Desafio 11
 ### Dificuldade Intermediário
 - Leia dois vetores de 4 posições. Verifique e escreva se um é anagrama de outro. Ex:
