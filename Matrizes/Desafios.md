@@ -44,11 +44,12 @@
 ### Dificuldade Intermediário
 - Leia uma matriz 6 x 6 e atribuir o valor 0 para os valores negativos encontrados fora das diagonais principal e secundaria.
 ---
-<!--
+
 ## Desafio 12
 ### Dificuldade Intermediário
 - Leia uma matriz 50 x 2, onde cada coluna corresponde a um lado de um triangulo retângulo. Declare um vetor que contenha a área dos respectivos triângulos e o escreva.
 ---
+<!--
 ## Desafio 13
 ### Dificuldade Fácil
 - Leia duas matrizes 20 x 20 e escreva os valores da primeira que ocorrem em qualquer posição da segunda.
