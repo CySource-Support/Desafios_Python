@@ -1,4 +1,4 @@
-<!--# Bem vido aos desafios de Algoritimos
+# Bem vido aos desafios de Algoritimos
 
 ## Busca Linear em uma Lista não Ordenada
 
@@ -11,7 +11,7 @@
 - Crie um programa que recebe uma lista de inteiros e um valor que deve ser buscado. O programa deve retornar o índice onde o valor foi encontrado, ou -1, caso não encontre o valor.
 
 ---
-
+<!--
 ## Busca Binária em uma Lista de Números Aleatórios
 > A busca binária procura um valor em uma lista ordenada, comparando o valor buscado com o valor do meio da lista.
 >
