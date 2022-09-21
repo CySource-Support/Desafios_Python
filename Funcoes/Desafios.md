@@ -94,13 +94,13 @@ Triângulo Escaleno: os comprimentos dos 3 lados são diferentes.
 ### Dificuldade Fácil
 - Faça um procedimento que lê 50 valores inteiros e retorna o maior e o menor deles.
 ---
-<!--
+
 ## Desafio 20
 ### Dificuldade Fácil
 - Faça um procedimento que recebe, por parâmetro, um valor N e calcula e escreve a tabuada de 1 até N. Mostre a tabuada na forma:
   * **1 x N = N 2 x N = 2N ... N x N = N2**
 ---
-
+<!--
 ## Desafio 21
 ### Dificuldade Fácil
 - Faça uma função que recebe, por parâmetro, um valor inteiro e positivo e retorna o número de divisores desse valor.  
