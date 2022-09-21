@@ -110,3 +110,7 @@ Triângulo Escaleno: os comprimentos dos 3 lados são diferentes.
 ### Dificuldade Fácil 
 - Escreva uma função que recebe, por parâmetro, um valor inteiro e positivo e retorna o somatório desse valor.
 ---
+
+## Desafio 23
+### Dificuldade Fácil
+- Crie uma função que receba uma lista de números e retorne o maior numero
