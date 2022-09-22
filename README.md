@@ -29,4 +29,4 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 
 ### Desafios finalisados
 
-> [Estrutura de decisão](Estrutura_decisao/Desafios.md) `if else elif`
+> [Condicionais](Condicionais_if-else-elif/Desafios.md) `if else elif`
