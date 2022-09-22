@@ -41,16 +41,18 @@
 ### Dificuldade Difícil
 - Leia um vetor de 5 posições contendo os caracteres de um numero. Em seguida escreva esse numero por extenso.
 ---
-<!--
+
 ## Desafio 11
 ### Dificuldade Intermediário
 - Leia dois vetores de 4 posições. Verifique e escreva se um é anagrama de outro. Ex:
     ARARA / ARARA – são anagramas
 ---
+
 ## Desafio 12
 ### Dificuldade Intermediário
 - Leia 3 vetores de 9 posições e crie outro com o 1º terço do primeiro, o segundo 3º. do segundo e o ultimo terço do 3º. Escrever o vetor resultante ao final.
 ---
+<!--
 ## Desafio 13
 ### Dificuldade Intermediário
 - Leia um vetor de 10 posições e verifique se existem valores iguais e os escreva.
