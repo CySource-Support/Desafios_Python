@@ -22,7 +22,8 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 ### Como enviar seus códigos
 
 1. Faça um fork desse projeto.
-2. Faça um **Pull Request** com a solução do desafio na **Branch Challenges**.
+2. Faça um **Pull Request** com a solução do desafio.
+3. Mais explicações em detalhes [aqui](https://docs.github.com/pt/get-started/quickstart/fork-a-repo).
 
 > Duvidas é só perguntar.
 
