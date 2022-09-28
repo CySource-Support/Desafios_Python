@@ -114,3 +114,54 @@ Triângulo Escaleno: os comprimentos dos 3 lados são diferentes.
 ## Desafio 23
 ### Dificuldade Fácil
 - Crie uma função que receba uma lista de números e retorne o maior numero
+---
+
+## Desafio 24
+### Dificuldade Fácil
+- Escreva uma função que calcule a média dos números em uma determinada lista.
+  
+  Lista vazios devem retornar 0.
+---
+<!--
+## Desafio 25
+### Dificuldade Fácil
+
+A empresa para a qual você trabalha acaba de receber um contrato para construir um gateway de pagamento. A fim de ajudar a mover as coisas, você se ofereceu para criar uma função que fará um float e retornará a formatação do valor em dólares e centavos.
+
+`39.99 torna-se $39.99`
+
+O resto de sua equipe irá certificar-se de que o argumento seja higienizado antes de ser passado para sua função, embora você precise considerar a adição de zeros à direita se eles estiverem ausentes (embora você não precise se preocupar com um período pendente).
+
+Exemplos:
+
+```
+3 precisa se tornar $3,00
+
+3.1 precisa de tornar $3.10
+```
+
+Boa sorte! Sua equipe sabe que pode contar com você!
+
+---
+
+## Desafio 26
+### Dificuldade Fácil
+
+Crie uma função chamada `_if` que recebe 3 argumentos: um valor booleano `bool` e 2 funções (que não aceitam nenhum parâmetro): `func1` e `func2`
+
+Quando `bool` é verdade, `func1` deve ser chamado, caso contrário, chame o `func2`.
+
+Exemplo:
+```python
+def truthy(): 
+  print("True")
+  
+def falsey(): 
+  print("False")
+  
+_if(True, truthy, falsey)
+# prints 'True' to the console
+``` 
+---
+
+-->
