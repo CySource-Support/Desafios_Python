@@ -52,15 +52,17 @@
 ### Dificuldade Intermediário
 - Leia 3 vetores de 9 posições e crie outro com o 1º terço do primeiro, o segundo 3º. do segundo e o ultimo terço do 3º. Escrever o vetor resultante ao final.
 ---
-<!--
+
 ## Desafio 13
 ### Dificuldade Intermediário
 - Leia um vetor de 10 posições e verifique se existem valores iguais e os escreva.
 ---
+<!--
 ## Desafio 14
 ### Dificuldade Intermediário
 - Leia um vetor de 50 posições e o compacte, ou seja, elimine as posições com valor zero avançando uma posição, com os com os valores subseqüentes do vetor. Dessa forma todos “zeros” devem ficar para as posições finais do vetor.
 ---
+
 ## Desafio 15
 ### Dificuldade Difícil
 - Considere um vetor de trajetórias de 9 elementos, onde cada elemento possui o valor do próximo elemento do vetor a ser lido.                    
