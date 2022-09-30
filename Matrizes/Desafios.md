@@ -59,14 +59,14 @@
 ### Dificuldade Difícil
 - Considere uma matriz de distância entre cidades 6 x 6:
 
-.|1. Cáceres|2. BBugres|3. Cuiabá|4. VGrande|5. Tangará|6. PLacerda
-:-----:|:-----:|:-----:|:----:|:-----:|:-----:|:---:
-|1. Cáceres|    0  |63     |210   |190    |    0  |190
-|2. BBugres|63     |   0   |160   |150    |95     | 0
-|3. Cuiabá |210    |160    |  0   |  0    |10     | 0 
-|4. VGrande|190    |150    |10    |  0    |   0   | 0
-|5. Tangará| 95    |    0  |   0  |  0    | 0     | 80
-|6. PLacerda|190   |    0  |   0  |80     |   80  | 0
+|          .|1. Cáceres|2. BBugres|3. Cuiabá|4. VGrande|5. Tangará|6. PLacerda
+|:----------|:--------:|:--------:|:-------:|:--------:|:--------:|:---:
+|1. Cáceres |    0     |   63     |   210   |   190    |    0     | 190
+|2. BBugres |   63     |    0     |   160   |   150    |   95     | 0
+|3. Cuiabá  |   210    |   160    |    0    |   10     |    0     | 0 
+|4. VGrande |   190    |   150    |   10    |    0     |    0     | 0
+|5. Tangará |    0     |   95     |    0    |    0     |    0     | 80
+|6. PLacerda|   190    |    0     |    0    |    0     |   80     | 0
  
  - Considere também um vetor de viagem indo de Cuiabá até Cáceres pela seguinte rota:
 
