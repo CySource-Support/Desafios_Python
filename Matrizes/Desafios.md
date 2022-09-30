@@ -54,19 +54,21 @@
 ### Dificuldade Fácil
 - Leia duas matrizes 20 x 20 e escreva os valores da primeira que ocorrem em qualquer posição da segunda.
 ---
-<!--
+
 ## Desafio 14
 ### Dificuldade Difícil
 - Considere uma matriz de distância entre cidades 6 x 6:
+
 .|1. Cáceres|2. BBugres|3. Cuiabá|4. VGrande|5. Tangará|6. PLacerda
 :-----:|:-----:|:-----:|:----:|:-----:|:-----:|:---:
-1. Cáceres|       |63     |210   |190    |       |190
-2. BBugres|63     |       |160   |150    |95     | 
-3. Cuiabá |210    |160    |      |       |10     |  
-4. VGrande|190    |150    |10    |       |       | 
-5. Tangará| 95    |       |      |       |80     |
-6. PLacerda|190   |       |      |80     |       | 
-  - Considere também um vetor de viagem indo de Cuiabá até Cáceres pela seguinte rota:
+|1. Cáceres|    0  |63     |210   |190    |    0  |190
+|2. BBugres|63     |   0   |160   |150    |95     | 0
+|3. Cuiabá |210    |160    |  0   |  0    |10     | 0 
+|4. VGrande|190    |150    |10    |  0    |   0   | 0
+|5. Tangará| 95    |    0  |   0  |  0    | 0     | 80
+|6. PLacerda|190   |    0  |   0  |80     |   80  | 0
+ 
+ - Considere também um vetor de viagem indo de Cuiabá até Cáceres pela seguinte rota:
 
 .|.|.|.|.|.|.
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -74,6 +76,7 @@
 Cidade|3|4|2|5|6|1
   - Faça um programa que leia a matriz e o vetor e calcule a distancia percorrida durante a viagem.
 ---
+<!--
 ## Desafio 15
 ### Dificuldade Intermediário
 - Leia uma matriz 100 x 10 que se refere respostas de 10 questões de múltipla escolha, referentes a 100 alunos. Leia também um vetor de 10 posições contendo o gabarito de respostas que podem ser a, b, c ou d. Seu programa deverá comparar as respostas de cada candidato com o gabarito e emitir um vetor Resultado, contendo a pontuação correspondente.
