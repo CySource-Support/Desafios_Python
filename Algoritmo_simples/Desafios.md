@@ -24,7 +24,7 @@
 - Escreva um programa que cria uma lista de 100 números aleatórios inteiros ordenados e solicita um número para o usuário. Use a busca binária para encontrar a posição do número fornecido na lista, ou retorne -1 se ele não for encontrado.
 
 ---
-<!--
+
 ## Algoritmo que Verifica se um Texto é um Palíndromo
 
 >De acordo com o dicionário da língua portuguesa, um palíndromo é uma palavra ou frase escrita da mesma forma da esquerda para a direita ou da direita para a esquerda.
@@ -36,7 +36,7 @@
 - Crie um programa que verifica se uma string é um palíndromo e retorna True ou False.
 
 ---
-
+<!--
 ## Números de Armstrong
 
 > Um número de Armstrong é um número de N dígitos onde a soma de cada dígito, elevado a N, é igual ao próprio número.
