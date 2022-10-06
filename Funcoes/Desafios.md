@@ -122,7 +122,7 @@ Triângulo Escaleno: os comprimentos dos 3 lados são diferentes.
   
   Lista vazios devem retornar 0.
 ---
-<!--
+
 ## Desafio 25
 ### Dificuldade Fácil
 
@@ -143,7 +143,7 @@ Exemplos:
 Boa sorte! Sua equipe sabe que pode contar com você!
 
 ---
-
+<!--
 ## Desafio 26
 ### Dificuldade Fácil
 
