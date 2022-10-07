@@ -70,17 +70,19 @@
  
  - Considere também um vetor de viagem indo de Cuiabá até Cáceres pela seguinte rota:
 
-.|.|.|.|.|.|.
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
 Índice|1|2|3|4|5|6
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 Cidade|3|4|2|5|6|1
+
   - Faça um programa que leia a matriz e o vetor e calcule a distancia percorrida durante a viagem.
+
 ---
-<!--
+
 ## Desafio 15
 ### Dificuldade Intermediário
 - Leia uma matriz 100 x 10 que se refere respostas de 10 questões de múltipla escolha, referentes a 100 alunos. Leia também um vetor de 10 posições contendo o gabarito de respostas que podem ser a, b, c ou d. Seu programa deverá comparar as respostas de cada candidato com o gabarito e emitir um vetor Resultado, contendo a pontuação correspondente.
 ---
+<!--
 ## Desafio 16
 ### Dificuldade Intermediário
 - Leia duas matrizes 4 x 4 e verifique se uma é palíndromo, isto é,  sua leitura a partir de qualquer direção sempre apresentara a mesma seqüência.
@@ -91,6 +93,7 @@ Cidade|3|4|2|5|6|1
     OPERA
     ROTAS
 ---
+<!--
 ## Desafio 17
 ### Dificuldade Intermediário
 - Criando um tabuleiro de Jogo da Velha. Crie um tabuleiro de jogo da velha, usando uma matrizes de caracteres (char) 3×3, onde o usuário pede o número da linha (1 até 3) e o da coluna (1 até 3). A cada vez que o usuário entrar com esses dados, colocar um ‘X’ ou ‘O’ no local selecionado.
