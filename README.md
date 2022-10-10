@@ -5,7 +5,7 @@
 Estamos postando desafios diarios focados em melhorar a logica de programção, onde vamos abordar os tópicos:
 
 - Segunda-feira - [**Algoritimo simples**](Algoritmo_simples/Desafios.md)
-- Terça-feira - [**Desafios diversos**](Desafios_diversos/Desafios.md)
+- Terça-feira - [**Desafios diversos**](desafios_diversos/desafios.md)
 - Quarta-feira - [**Funções**](Funcoes/)
 - Quinta-feira - [**Vetores**](Vetores)
 - Sexta-feira - [**Matrizes**](Matrizes)
@@ -30,5 +30,5 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 ### Desafios finalisados
 
 > [Condicionais](Condicionais_if-else-elif/Desafios.md) `if`, `else` e `elif`
-> 
+>
 > [Loops](Loops/) `while` e `for`
