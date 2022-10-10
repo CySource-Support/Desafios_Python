@@ -36,7 +36,7 @@
 - Crie um programa que verifica se uma string é um palíndromo e retorna True ou False.
 
 ---
-<!--
+
 ## Números de Armstrong
 
 > Um número de Armstrong é um número de N dígitos onde a soma de cada dígito, elevado a N, é igual ao próprio número.
@@ -49,7 +49,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Escreva um programa que imprima todos os números de Armstrong em base 10 que tenham até 6 dígitos.
 
 ---
-
+<!--
 ## Programa para Imprimir Tabelas Verdade a Partir de Expressões
 
 > Esse é um ótimo exercício para entender como funcionam os operadores lógicos e como fazer laços de repetição aninhados.
