@@ -59,3 +59,38 @@ test_basic_expression_matter()
 ```
 
 ---
+
+<!--
+## Função de movimentação do jogo
+
+### Tarefa
+
+Neste jogo, o herói se move da esquerda para a direita. O jogador rola os dados e move o número de casas indicadas pelos dados duas vezes.
+
+Crie uma função para o jogo terminal que tome a posição atual do herói e a rolagem (1-6) e retorne a nova posição.
+
+#### Exemplo:
+`move(3, 6) # deve ser igual a 15`
+
+#### Codigo
+
+```python
+import unittest
+
+class moveTestCase(unittest.TestCase):
+  def test_move1(self):
+    self.assertEquals(move(0, 4), 8)
+  
+  def test_move2(self):
+    self.assertEquals(move(3, 6), 15)
+
+  def test_move3(self):
+    self.assertEquals(move(2, 5), 12)
+
+def move(position, roll):
+    # your code here
+    return
+```
+
+---
+-->
