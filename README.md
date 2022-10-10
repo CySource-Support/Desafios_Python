@@ -5,7 +5,7 @@
 Estamos postando desafios diarios focados em melhorar a logica de programção, onde vamos abordar os tópicos:
 
 - Segunda-feira - [**Algoritimo simples**](Algoritmo_simples/Desafios.md)
-- Terça-feira - [**Loops**](Loops/) `while` e `for`
+- Terça-feira - [**Desafios dirsos**](Desafios_dirsos/Desafios.md)
 - Quarta-feira - [**Funções**](Funcoes/)
 - Quinta-feira - [**Vetores**](Vetores)
 - Sexta-feira - [**Matrizes**](Matrizes)
