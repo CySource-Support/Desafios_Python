@@ -63,21 +63,21 @@
 - Leia um vetor de 50 posições e o compacte, ou seja, elimine as posições com valor zero avançando uma posição, com os com os valores subseqüentes do vetor. Dessa forma todos “zeros” devem ficar para as posições finais do vetor.
 
 ---
-<!--
+
 ## Desafio 15
 ### Dificuldade Difícil
 - Considere um vetor de trajetórias de 9 elementos, onde cada elemento possui o valor do próximo elemento do vetor a ser lido.                    
 
-  Índice | 1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |   9
-  :----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-  Valor  5    7    6    9    2    8    4     0     3            
+  Índice |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9 
+  :-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+  Valor  |  5  |  7  |  6  |  9  |  2  |  8  |  4  |  0  |  3            
 
   Assim, a seqüência da leitura seria 1, 5, 2, 7, 4, 9, 3, 6, 8, 0            
 
   - Faça um algoritmo que seja capaz de ler esse vetor e seguir a trajetória.
 
 ---
-
+<!--
 ## Desafio 16
 ### Dificuldade Fácil
 - Escreva um algoritmo que solicite ao usuário a entrada de 5 números, e que exiba o somatório desses números na tela. Após exibir a soma, o programa deve mostrar também os números que o usuário digitou, um por linha.  
