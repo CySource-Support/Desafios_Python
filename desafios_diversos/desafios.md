@@ -46,7 +46,7 @@ class matterTestCase(unittest.TestCase):
             [1, 10, 1]]
     result = [6,4,16,27,3,9,5,8,20,105,35,8,14,48,60,27,126,20,18,300,12]
     for i in range(len(test)):
-      self.assertEquals(expression_matter(*test[i]), result[i])
+      self.assertEqual(expression_matter(*test[i]), result[i])
 
 def expression_matter(a, b, c):
   # Aqui vai seu código
@@ -75,17 +75,19 @@ import unittest
 
 class moveTestCase(unittest.TestCase):
   def test_move1(self):
-    self.assertEquals(move(0, 4), 8)
+    self.assertEqual(move(0, 4), 8)
   
   def test_move2(self):
-    self.assertEquals(move(3, 6), 15)
+    self.assertEqual(move(3, 6), 15)
 
   def test_move3(self):
-    self.assertEquals(move(2, 5), 12)
+    self.assertEqual(move(2, 5), 12)
 
 def move(position, roll):
     # your code here
     return
+    
+unittest.main()
 ```
 
 ---
@@ -109,20 +111,20 @@ import unittest
 
 class removeTestCase(unittest.TestCase):
   def test_remove_string(self):
-    self.assertEquals(remove_every_other(['Hello', 'Goodbye', 'Hello Again']), ['Hello', 'Hello Again'])
+    self.assertEqual(remove_every_other(['Hello', 'Goodbye', 'Hello Again']), ['Hello', 'Hello Again'])
   
   def test_remove_numbers(self):
-    self.assertEquals(remove_every_other([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]), [1, 3, 5, 7, 9])
+    self.assertEqual(remove_every_other([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]), [1, 3, 5, 7, 9])
 
   def test_not_remove(self):
-    self.assertEquals(remove_every_other([[1, 2]]), [[1, 2]])
+    self.assertEqual(remove_every_other([[1, 2]]), [[1, 2]])
 
   def test_remove_dict(self):
-    self.assertEquals(remove_every_other([['Goodbye'], {'Great': 'Job'}]), [['Goodbye']])
+    self.assertEqual(remove_every_other([['Goodbye'], {'Great': 'Job'}]), [['Goodbye']])
 
 def remove_every_other(my_list):
     # Your code here!
-    pass
+    return
 
 unittest.main()
 ```
@@ -144,10 +146,10 @@ import unittest
 
 class find_averageTestCase(unittest.TestCase):
   def test_find_average_empyt(self):
-    self.assertEquals(find_average([]), 0)
+    self.assertEqual(find_average([]), 0)
 
   def test_find_average_len_5(self):
-    self.assertEquals(find_average([4, 10, 9, 67, 8]), 19.6)
+    self.assertEqual(find_average([4, 10, 9, 67, 8]), 19.6)
 
 def find_average(array):
   return 
@@ -211,13 +213,13 @@ import unittest
 
 class wellTestCase(unittest.TestCase):
   def test_well_fail(self):
-    self.assertEquals(well(['bad', 'bad', 'bad']), 'Falha!')
+    self.assertEqual(well(['bad', 'bad', 'bad']), 'Falha!')
   
   def test_well_publish(self):
-    self.assertEquals(well(['good', 'bad', 'bad', 'bad', 'bad']), 'Publicar!')
+    self.assertEqual(well(['good', 'bad', 'bad', 'bad', 'bad']), 'Publicar!')
 
   def test_well_series(self):
-    self.assertEquals(well(['good', 'bad', 'bad', 'bad', 'bad', 'good', 'bad', 'bad', 'good']), 'Sinto cheiro de série!')
+    self.assertEqual(well(['good', 'bad', 'bad', 'bad', 'bad', 'good', 'bad', 'bad', 'good']), 'Sinto cheiro de série!')
 
 def well(array):
   return ''
