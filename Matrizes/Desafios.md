@@ -82,30 +82,14 @@ Cidade|3|4|2|5|6|1
 ### Dificuldade Intermediário
 - Leia uma matriz 100 x 10 que se refere respostas de 10 questões de múltipla escolha, referentes a 100 alunos. Leia também um vetor de 10 posições contendo o gabarito de respostas que podem ser a, b, c ou d. Seu programa deverá comparar as respostas de cada candidato com o gabarito e emitir um vetor Resultado, contendo a pontuação correspondente.
 ---
-<!--
+
 ## Desafio 16
 ### Dificuldade Intermediário
-- Leia duas matrizes 4 x 4 e verifique se uma é palíndromo, isto é,  sua leitura a partir de qualquer direção sempre apresentara a mesma seqüência.
-   EX:                  
-    SATOR
-    AREPO
-    TENET
-    OPERA
-    ROTAS
+- Criando um tabuleiro de Jogo da Velha. Crie um tabuleiro de jogo da velha, usando uma matrizes de caracteres (char) 3×3, onde o usuário pede o número da linha (1 até 3) e o da coluna (1 até 3). A cada vez que o usuário entrar com esses dados, colocar um ‘X’ ou ‘O’ no local selecionado.
+
 ---
 <!--
 ## Desafio 17
-### Dificuldade Intermediário
-- Criando um tabuleiro de Jogo da Velha. Crie um tabuleiro de jogo da velha, usando uma matrizes de caracteres (char) 3×3, onde o usuário pede o número da linha (1 até 3) e o da coluna (1 até 3). A cada vez que o usuário entrar com esses dados, colocar um ‘X’ ou ‘O’ no local selecionado.
----
-## Desafio 18
-### Dificuldade Intermediário
-- Um número palíndromo é aquele que, se lido de trás para frente e de frete para trás, é o mesmo.
-  Exemplos: 2112, 666, 2442 etc…
-  Sabendo disso, crie um programa que pergunte ao usuário um intervalo, por exemplo: Inicio – 30, Fim – 2000;
-  Com base neste intervalo, verifique quantos palíndromos existem e exiba-os na tela.
----
-## Desafio 19
 ### Dificuldade Intermediário
 - Faça um jogo de batalha naval, utilize as seguinte regras:
   – O primeiro usuário será o que vai configurar o tabuleiro inserindo os navios.
@@ -116,7 +100,7 @@ Cidade|3|4|2|5|6|1
   – O jogador que irá descobrir onde os navios estão tem apenas 10 tiros
   – O jogador 1 pode posicionar 5 navios
 ---
-## Desafio 20
+## Desafio 18
 ### Dificuldade Intermediário
 - Crie um algoritmo que lê 10 números inteiros. Ao final da leitura ele deve fornecer um menú com os seguintes itens:
   1. Adicionar um número
@@ -129,8 +113,9 @@ Cidade|3|4|2|5|6|1
 
   - Na terceira e ultima opção, você deve perguntar ao usuário qual numero ele deseja incrementar e de quanto seria este incremento. Então seu sistema deve incrementar o número e manter o vetor organizado em ordem crescente.
 ---
-## Desafio 21
-### Dificuldade Intermediário 25- Crie uma agenda que armazena, código da pessoa, número do telefone, idade. Sua agenda deve possibilitar:
+## Desafio 19
+### Dificuldade Intermediário 25
+- Crie uma agenda que armazena, código da pessoa, número do telefone, idade. Sua agenda deve possibilitar:
 (1) – inserir um contato
 (2) – Remover um contato
 (3) – Editar um contato

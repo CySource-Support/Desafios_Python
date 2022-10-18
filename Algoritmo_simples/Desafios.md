@@ -49,7 +49,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Escreva um programa que imprima todos os números de Armstrong em base 10 que tenham até 6 dígitos.
 
 ---
-<!--
+
 ## Programa para Imprimir Tabelas Verdade a Partir de Expressões
 
 > Esse é um ótimo exercício para entender como funcionam os operadores lógicos e como fazer laços de repetição aninhados.
@@ -58,7 +58,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 
 - Crie um programa que receba uma expressão booleana qualquer com duas variáveis, x e y, e imprima a tabela verdade para cada valor de x e y em (True, False).
 
-    Você pode começar atribuindo cada expressão booleana que será testada a uma variável dentro do seu programa (hardcoded).
+    Você pode começar atribuindo cada expressão booleana que será testada a uma variável dentro do seu programa.
 
     Depois, você pode evoluir o seu código, criando uma função que imprime a tabela verdade e passando uma função lambda contendo a expressão, semelhante a esse exemplo:
 
@@ -78,7 +78,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 > Em um programa real, isso pode ser uma porta de entrada para um código malicioso.
 
 ---
-
+<!--
 ## Lei dos Grandes Números (Law of Large Numbers)
 > A Lei dos Grandes Números tem origem na teoria da probabilidade.
 > 
