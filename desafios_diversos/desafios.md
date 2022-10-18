@@ -60,7 +60,6 @@ test_basic_expression_matter()
 
 ---
 
-<!--
 ## Função de movimentação do jogo
 
 ### Tarefa
@@ -90,6 +89,143 @@ class moveTestCase(unittest.TestCase):
 def move(position, roll):
     # your code here
     return
+```
+
+---
+
+<!--
+## Removendo elementos
+
+### Tarefa
+
+Pegue um array e remova cada segundo elemento do array. Sempre mantenha o primeiro elemento e comece a remover com o próximo elemento.
+
+#### Exemplo:
+`["Keep", "Remove", "Keep", "Remove", "Keep", ...] -> ["Keep", "Keep", "Keep", ...]`
+
+> Nenhuma das matrizes estará vazia, então você não precisa se preocupar com isso!
+
+#### Codigo
+
+```python
+import unittest
+
+class removeTestCase(unittest.TestCase):
+  def test_remove_string(self):
+    self.assertEquals(remove_every_other(['Hello', 'Goodbye', 'Hello Again']), ['Hello', 'Hello Again'])
+  
+  def test_remove_numbers(self):
+    self.assertEquals(remove_every_other([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]), [1, 3, 5, 7, 9])
+
+  def test_not_remove(self):
+    self.assertEquals(remove_every_other([[1, 2]]), [[1, 2]])
+
+  def test_remove_dict(self):
+    self.assertEquals(remove_every_other([['Goodbye'], {'Great': 'Job'}]), [['Goodbye']])
+
+def remove_every_other(my_list):
+    # Your code here!
+    pass
+
+unittest.main()
+```
+-->
+<!--
+## Calcular média
+
+### Tarefa
+
+Escreva uma função que calcule a média dos números em uma determinada lista. 
+#### Nota 
+
+ - Arrays vazios devem retornar 0.
+
+#### Codigo
+
+```python
+import unittest
+
+class find_averageTestCase(unittest.TestCase):
+  def test_find_average_empyt(self):
+    self.assertEquals(find_average([]), 0)
+
+  def test_find_average_len_5(self):
+    self.assertEquals(find_average([4, 10, 9, 67, 8]), 19.6)
+
+def find_average(array):
+  return 
+
+unittest.main()
+```
+
+---
+-->
+<!--
+## n é divisível por x e y?
+
+### Tarefa
+
+Crie uma função que verifique se um número `n` é divisível por dois números `x` **E** `y`. Todas as entradas são números positivos e diferentes de zero.
+
+#### Exemplo
+
+> 1) `n =   3, x = 1, y = 3 =>  true` porque 3 é divisivel por 1 e 3
+> 2) `n =  12, x = 2, y = 6 =>  true` porque  12 é divisivel por 2 and 6
+> 3) `n = 100, x = 6, y = 3 => false` porque 100 não é divisivel por 6 e 3
+> 4) `n =  12, x = 7, y = 5 => false` porque  12 não é divisivel por 7 nor 5
+
+#### Codigo
+
+```python
+import unittest
+
+class isDivisibleTestCase(unittest.TestCase):
+  
+  self.assertFalse(is_divisible(3,2,2))
+  self.assertTrue(is_divisible(3,3,1))
+  self.assertTrue(is_divisible(12,3,4))
+  self.assertFalse(is_divisible(8,3,4))
+
+def is_divisible(n, x, y):
+  return
+
+unittest.main()
+```
+
+---
+-->
+<!--
+## Poço de Ideias - Versão Fácil
+
+### Tarefa
+
+Para cada boa ideia de **desafios**, parece haver algumas ruins!
+
+Neste **desafio** você precisa verificar o array fornecido para boas ideias **'boas'** e ideias ruins **'ruins'**.
+
+- Se houver uma ou duas boas ideias, retorne **'Publicar!'**,
+- se houver mais de 2, retorne **'Sinto cheiro de série!'**.
+- Se não houver boas ideias, como costuma acontecer, retorne **'Falha!'**.
+
+#### Codigo
+
+```python
+import unittest
+
+class wellTestCase(unittest.TestCase):
+  def test_well_fail(self):
+    self.assertEquals(well(['bad', 'bad', 'bad']), 'Falha!')
+  
+  def test_well_publish(self):
+    self.assertEquals(well(['good', 'bad', 'bad', 'bad', 'bad']), 'Publicar!')
+
+  def test_well_series(self):
+    self.assertEquals(well(['good', 'bad', 'bad', 'bad', 'bad', 'good', 'bad', 'bad', 'good']), 'Sinto cheiro de série!')
+
+def well(array):
+  return ''
+
+unittest.main()
 ```
 
 ---
