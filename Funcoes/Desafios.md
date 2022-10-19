@@ -143,7 +143,7 @@ Exemplos:
 Boa sorte! Sua equipe sabe que pode contar com você!
 
 ---
-<!--
+
 ## Desafio 26
 ### Dificuldade Fácil
 
@@ -163,5 +163,3 @@ _if(True, truthy, falsey)
 # prints 'True' to the console
 ``` 
 ---
-
--->
