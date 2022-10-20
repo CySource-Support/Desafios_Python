@@ -77,11 +77,12 @@
   - Faça um algoritmo que seja capaz de ler esse vetor e seguir a trajetória.
 
 ---
-<!--
+
 ## Desafio 16
 ### Dificuldade Fácil
 - Escreva um algoritmo que solicite ao usuário a entrada de 5 números, e que exiba o somatório desses números na tela. Após exibir a soma, o programa deve mostrar também os números que o usuário digitou, um por linha.  
 ---
+<!--
 ## Desafio 17
 ### Dificuldade Intermediário
 - Escreva um algoritmo que solicite ao usuário a entrada de 5 nomes, e que exiba a lista desses nomes na tela. Após exibir essa lista, o programa deve mostrar também os nomes na ordem inversa em que o usuário os digitou, um por linha.  
