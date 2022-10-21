@@ -88,18 +88,19 @@ Cidade|3|4|2|5|6|1
 - Criando um tabuleiro de Jogo da Velha. Crie um tabuleiro de jogo da velha, usando uma matrizes de caracteres (char) 3×3, onde o usuário pede o número da linha (1 até 3) e o da coluna (1 até 3). A cada vez que o usuário entrar com esses dados, colocar um ‘X’ ou ‘O’ no local selecionado.
 
 ---
-<!--
+
 ## Desafio 17
 ### Dificuldade Intermediário
 - Faça um jogo de batalha naval, utilize as seguinte regras:
-  – O primeiro usuário será o que vai configurar o tabuleiro inserindo os navios.
-  – O tabuleiro deve ter 8×8
-  – Quando inserido todos os navios o restante será considerado como “água”.
-  – Cada navio pode ocupar apenas 1 posição
-  – O jogador deve respeitar o espaço de 1 célula entre os navios
-  – O jogador que irá descobrir onde os navios estão tem apenas 10 tiros
-  – O jogador 1 pode posicionar 5 navios
+  - O primeiro usuário será o que vai configurar o tabuleiro inserindo os navios.
+  - O tabuleiro deve ter 8×8
+  - Quando inserido todos os navios o restante será considerado como “água”.
+  - Cada navio pode ocupar apenas 1 posição
+  - O jogador deve respeitar o espaço de 1 célula entre os navios
+  - O jogador que irá descobrir onde os navios estão tem apenas 10 tiros
+  - O jogador 1 pode posicionar 5 navios
 ---
+<!--
 ## Desafio 18
 ### Dificuldade Intermediário
 - Crie um algoritmo que lê 10 números inteiros. Ao final da leitura ele deve fornecer um menú com os seguintes itens:
