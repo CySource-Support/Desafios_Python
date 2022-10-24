@@ -78,7 +78,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 > Em um programa real, isso pode ser uma porta de entrada para um código malicioso.
 
 ---
-<!--
+
 ## Lei dos Grandes Números (Law of Large Numbers)
 > A Lei dos Grandes Números tem origem na teoria da probabilidade.
 > 
@@ -102,7 +102,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Crie um programa que simule N lançamentos de um dado de 6 lados e imprima a média aritmética dos resultados. Verifique se a média se aproxima de `3,5` à medida que o valor de `N` aumenta.
 
 ---
-
+<!--
 ## Automatize Tarefas Repetitivas
 > Uma tarefa importante para administradores de sistemas é gerenciar arquivos nos diretórios sem precisar ficar movendo ícones em uma interface gráfica ou rodando dezenas de comandos em um terminal.
 >
