@@ -92,7 +92,6 @@ unittest.main()
 
 ---
 
-<!--
 ## Removendo elementos
 
 ### Tarefa
@@ -128,7 +127,7 @@ def remove_every_other(my_list):
 
 unittest.main()
 ```
--->
+
 <!--
 ## Calcular média
 
