@@ -128,7 +128,8 @@ def remove_every_other(my_list):
 unittest.main()
 ```
 
-<!--
+---
+
 ## Calcular média
 
 ### Tarefa
@@ -157,7 +158,7 @@ unittest.main()
 ```
 
 ---
--->
+
 <!--
 ## n é divisível por x e y?
 
