@@ -102,7 +102,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Crie um programa que simule N lançamentos de um dado de 6 lados e imprima a média aritmética dos resultados. Verifique se a média se aproxima de `3,5` à medida que o valor de `N` aumenta.
 
 ---
-<!--
+
 ## Automatize Tarefas Repetitivas
 > Uma tarefa importante para administradores de sistemas é gerenciar arquivos nos diretórios sem precisar ficar movendo ícones em uma interface gráfica ou rodando dezenas de comandos em um terminal.
 >
@@ -119,7 +119,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
   Por fim, o programa deve apagar os `arquivos texto originais` , caso o processamento termine **sem erros.**
   
 ---
-
+<!--
 ## Envie E-mails
 > Uma das tarefas mais comuns realizadas por um programa, seja um script de gerenciamento de arquivos de backup ou um sistema Web como o WordPress, é enviar e-mails.
 
