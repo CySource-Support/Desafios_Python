@@ -159,7 +159,6 @@ unittest.main()
 
 ---
 
-<!--
 ## n é divisível por x e y?
 
 ### Tarefa
@@ -169,9 +168,9 @@ Crie uma função que verifique se um número `n` é divisível por dois número
 #### Exemplo
 
 > 1) `n =   3, x = 1, y = 3 =>  true` porque 3 é divisivel por 1 e 3
-> 2) `n =  12, x = 2, y = 6 =>  true` porque  12 é divisivel por 2 and 6
+> 2) `n =  12, x = 2, y = 6 =>  true` porque  12 é divisivel por 2 e 6
 > 3) `n = 100, x = 6, y = 3 => false` porque 100 não é divisivel por 6 e 3
-> 4) `n =  12, x = 7, y = 5 => false` porque  12 não é divisivel por 7 nor 5
+> 4) `n =  12, x = 7, y = 5 => false` porque  12 não é divisivel por 7 e 5
 
 #### Codigo
 
@@ -192,7 +191,6 @@ unittest.main()
 ```
 
 ---
--->
 <!--
 ## Poço de Ideias - Versão Fácil
 
