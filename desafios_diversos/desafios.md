@@ -178,11 +178,13 @@ Crie uma função que verifique se um número `n` é divisível por dois número
 import unittest
 
 class isDivisibleTestCase(unittest.TestCase):
-  
-  self.assertFalse(is_divisible(3,2,2))
-  self.assertTrue(is_divisible(3,3,1))
-  self.assertTrue(is_divisible(12,3,4))
-  self.assertFalse(is_divisible(8,3,4))
+  def test_is_divisible(self):
+      self.assertTrue(is_divisible(3,3,1))
+      self.assertTrue(is_divisible(12,3,4))
+      
+  def test_not_divisible(self)
+      self.assertFalse(is_divisible(8,3,4))
+      self.assertFalse(is_divisible(3,2,2))
 
 def is_divisible(n, x, y):
   return
@@ -191,7 +193,7 @@ unittest.main()
 ```
 
 ---
-<!--
+
 ## Poço de Ideias - Versão Fácil
 
 ### Tarefa
@@ -220,10 +222,9 @@ class wellTestCase(unittest.TestCase):
     self.assertEqual(well(['good', 'bad', 'bad', 'bad', 'bad', 'good', 'bad', 'bad', 'good']), 'Sinto cheiro de série!')
 
 def well(array):
-  return ''
+  return 
 
 unittest.main()
 ```
 
 ---
--->
