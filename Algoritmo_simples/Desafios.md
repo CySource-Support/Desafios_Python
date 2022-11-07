@@ -119,16 +119,16 @@ Veja um exemplo com um número de 3 dígitos em base 10:
   Por fim, o programa deve apagar os `arquivos texto originais` , caso o processamento termine **sem erros.**
   
 ---
-<!--
+
 ## Envie E-mails
 > Uma das tarefas mais comuns realizadas por um programa, seja um script de gerenciamento de arquivos de backup ou um sistema Web como o WordPress, é enviar e-mails.
 
 ###### Problema proposto:
 
-- Crie um programa que envia um e-mail para os endereços cadastrados, contendo o resultado da execução do programa do exemplo anterior.
+- Crie um programa que envia um e-mail para os endereços cadastrados, contendo o resultado da execução do programa do desafio anterior.
 
 ---
-
+<!--
 ## Acesse um Conjuntos de Dados Online
 > Alguns programadores se organizam em comunidades para desenvolver softwares com o objetivo de fiscalizar a Administração Pública nas esferas municipal, estadual e federal.
 >
