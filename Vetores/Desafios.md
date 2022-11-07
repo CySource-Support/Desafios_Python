@@ -88,11 +88,12 @@
 - Escreva um algoritmo que solicite ao usuário a entrada de 5 nomes, e que exiba a lista desses nomes na tela. Após exibir essa lista, o programa deve mostrar também os nomes na ordem inversa em que o usuário os digitou, um por linha.  
 ---
 
-<!--
+
 ## Desafio 18
 ### Dificuldade Fácil 
 - Crie um programa que solicite a entrada de 10 números pelo usuário, armazenando-os em um vetor, e então monte outro vetor com os valores do primeiro multiplicados por 5. Exiba os valores dos dois vetores na tela, simultaneamente, em duas colunas (um em cada coluna), uma posição por linha.   
 ---
+<!--
 ## Desafio 19
 ### Dificuldade Fácil
 - Crie um programa que armazene 10 números digitados pelo usuário em dois vetores: um somente para números pares, e outro somente para números ímpares. Após, exiba os valores dos dois vetores na tela, em sequência. Obs.: As posições que não receberem valores exibirão o número zero. Não se preocupe com isso por enquanto.  
@@ -104,5 +105,23 @@
 ## Desafio 21
 ### Dificuldade Fácil
 - Modifique novamente o programa anterior, de modo a não exibir na saída os números zero que são mostrados para todas as posições que não receberam nenhum valor durante a atribuição (e portanto estão vazias).
+---
+-->
+<!--
+## Desafio vetor 22
+
+### Dificuldade Intermediário
+
+- Crie um algoritmo que lê 10 números inteiros. Ao final da leitura ele deve fornecer um menú com os seguintes itens:
+  1. Adicionar um número
+  2. Remover um número
+  3. Incrementar um número
+
+  - No primeiro menú, você deve adicionar um número ao vetor. No entanto este vetor deve permanecer em ordem Crescente. 
+
+  - Já no segundo menú, ao seleciona-lo, o usuário deverá informar a posição do numero ou então o próprio numero e seu sistema deve remove-lo. Mas cuidado, você deverá reposicionar os números restantes para que não haja “buracos” no vetor. Além disso, o vetor deve permanecer em ordem crescente.
+
+  - Na terceira e ultima opção, você deve perguntar ao usuário qual numero ele deseja incrementar e de quanto seria este incremento. Então seu sistema deve incrementar o número e manter o vetor organizado em ordem crescente.
+
 ---
 -->
