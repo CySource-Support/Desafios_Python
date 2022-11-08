@@ -2,6 +2,9 @@
 
 ## Expressions Matter
 
+dificuldade | fundamental
+---:|:---
+
 ### Tarefa
 
 Dados três inteiros `a` ,`b`,`c`, retorne o maior número obtido após inserir os seguintes operadores e colchetes:`+`,`*`,`()`.
@@ -59,13 +62,17 @@ unittest.main()
 
 ## Função de movimentação do jogo
 
+dificuldade | fundamental
+---:|:---
+
 ### Tarefa
 
 Neste jogo, o herói se move da esquerda para a direita. O jogador rola os dados e move o número de casas indicadas pelos dados duas vezes.
 
 Crie uma função para o jogo terminal que tome a posição atual do herói e a rolagem (1-6) e retorne a nova posição.
 
-#### Exemplo:
+#### Exemplo
+
 `move(3, 6) # deve ser igual a 15`
 
 #### Codigo
@@ -94,11 +101,15 @@ unittest.main()
 
 ## Removendo elementos
 
+dificuldade | fundamental
+---:|:---
+
 ### Tarefa
 
 Pegue um array e remova cada segundo elemento do array. Sempre mantenha o primeiro elemento e comece a remover com o próximo elemento.
 
-#### Exemplo:
+#### Exemplo
+
 `["Keep", "Remove", "Keep", "Remove", "Keep", ...] -> ["Keep", "Keep", "Keep", ...]`
 
 > Nenhuma das matrizes estará vazia, então você não precisa se preocupar com isso!
@@ -132,12 +143,16 @@ unittest.main()
 
 ## Calcular média
 
+dificuldade | fundamental
+---:|:---
+
 ### Tarefa
 
-Escreva uma função que calcule a média dos números em uma determinada lista. 
-#### Nota 
+Escreva uma função que calcule a média dos números em uma determinada lista.
 
- - Arrays vazios devem retornar 0.
+#### Nota
+
+- Arrays vazios devem retornar 0.
 
 #### Codigo
 
@@ -160,6 +175,9 @@ unittest.main()
 ---
 
 ## n é divisível por x e y?
+
+dificuldade | fundamental
+---:|:---
 
 ### Tarefa
 
@@ -196,6 +214,9 @@ unittest.main()
 
 ## Poço de Ideias - Versão Fácil
 
+dificuldade | fundamental
+---:|:---
+
 ### Tarefa
 
 Para cada boa ideia de **desafios**, parece haver algumas ruins!
@@ -231,7 +252,8 @@ unittest.main()
 
 ## Terceiro ângulo de um triângulo
 
-- [x] Fundamental
+dificuldade | fundamental
+---:|:---
 
 ### Tarefa
 
@@ -249,21 +271,41 @@ Nota: apenas números inteiros positivos serão testados.
 import unittest
 
 class angleTestCase(unittest.TestCase):
-  def basic_test_cases():
-    def test_angle_90(test):
-      test.assert_equals(other_angle(30, 60), 90)
-    
-    def test_angle_60(test):
-      test.assert_equals(other_angle(60, 60), 60)
+  def test_angle_90(self):
+    self.assert_equals(other_angle(30, 60), 90)
+  
+  def test_angle_60(self):
+    self.assert_equals(other_angle(60, 60), 60)
 
-    def test_angle_59(test):
-      test.assert_equals(other_angle(43, 78), 59)
+  def test_angle_59(self):
+    self.assert_equals(other_angle(43, 78), 59)
 
-    def test_angle_150(test):
-      test.assert_equals(other_angle(10, 20), 150)
+  def test_angle_150(self):
+    self.assert_equals(other_angle(10, 20), 150)
 
 def other_angle(a, b):
     pass
 
 unittest.main()
 ```
+
+---
+
+## Calcular IMC
+
+dificuldade | fundamental
+---:|:---
+
+### Tarefa
+
+Escreva a função imc que calcula o índice de massa corporal (imc = peso/altura2 ).
+
+se `imc <= 18,5` retornar `"Abaixo do peso"`
+
+se `imc <= 25,0` retorna `"Normal"`
+
+se `imc <= 30,0` retornar `"Excesso de peso"`
+
+se `imc > 30` retorna `"Obeso"`
+
+---
