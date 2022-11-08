@@ -6,9 +6,9 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 
 - Segunda-feira - [**Algoritimo simples**](Algoritmo_simples/Desafios.md)
 - Terça-feira - [**Desafios diversos**](desafios_diversos/desafios.md)
-- Quarta-feira - [**Funções**](Funcoes/)
+- Quarta-feira - [**Desafios diversos**](desafios_diversos/desafios.md)
 - Quinta-feira - [**Vetores**](Vetores)
-- Sexta-feira - [**Matrizes**](Matrizes)
+- Sexta-feira - [**Desafios diversos**](desafios_diversos/desafios.md)
 
 > Os desafios estão em constantes atualizações!
 
@@ -24,6 +24,7 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 1. Faça um fork desse projeto.
 2. Faça um **Pull Request** com a solução do desafio.
 3. Mais explicações em detalhes [aqui](https://docs.github.com/pt/get-started/quickstart/fork-a-repo).
+4. Para manter uma organização nos arquivos das soluções coloquem os seus nomes e o nome do desafio no nome dos arquivos.
 
 > Duvidas é só perguntar.
 
@@ -32,3 +33,7 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 > [Condicionais](Condicionais_if-else-elif/Desafios.md) `if`, `else` e `elif`
 >
 > [Loops](Loops/) `while` e `for`
+> 
+> [Funções](Funcoes/) `def`
+> 
+> [Matrizes](Matrizes)

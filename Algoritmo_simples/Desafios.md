@@ -102,7 +102,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Crie um programa que simule N lançamentos de um dado de 6 lados e imprima a média aritmética dos resultados. Verifique se a média se aproxima de `3,5` à medida que o valor de `N` aumenta.
 
 ---
-<!--
+
 ## Automatize Tarefas Repetitivas
 > Uma tarefa importante para administradores de sistemas é gerenciar arquivos nos diretórios sem precisar ficar movendo ícones em uma interface gráfica ou rodando dezenas de comandos em um terminal.
 >
@@ -125,10 +125,10 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 
 ###### Problema proposto:
 
-- Crie um programa que envia um e-mail para os endereços cadastrados, contendo o resultado da execução do programa do exemplo anterior.
+- Crie um programa que envia um e-mail para os endereços cadastrados, contendo o resultado da execução do programa do desafio anterior.
 
 ---
-
+<!--
 ## Acesse um Conjuntos de Dados Online
 > Alguns programadores se organizam em comunidades para desenvolver softwares com o objetivo de fiscalizar a Administração Pública nas esferas municipal, estadual e federal.
 >
