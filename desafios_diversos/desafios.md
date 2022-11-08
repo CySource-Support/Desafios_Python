@@ -1,4 +1,4 @@
-# Bem vido aos desafios de Diversos
+# Bem vido aos desafios Diversos
 
 ## Expressions Matter
 
@@ -228,3 +228,42 @@ unittest.main()
 ```
 
 ---
+
+## Terceiro ângulo de um triângulo
+
+- [x] Fundamental
+
+### Tarefa
+
+Você recebe dois ângulos internos (em graus) de um triângulo.
+
+Escreva uma função para retornar o 3º ângulo.
+
+Nota: apenas números inteiros positivos serão testados.
+
+[Mais dicas](https://en.wikipedia.org/wiki/Triangle)
+
+#### Codigo
+
+```Python
+import unittest
+
+class angleTestCase(unittest.TestCase):
+  def basic_test_cases():
+    def test_angle_90(test):
+      test.assert_equals(other_angle(30, 60), 90)
+    
+    def test_angle_60(test):
+      test.assert_equals(other_angle(60, 60), 60)
+
+    def test_angle_59(test):
+      test.assert_equals(other_angle(43, 78), 59)
+
+    def test_angle_150(test):
+      test.assert_equals(other_angle(10, 20), 150)
+
+def other_angle(a, b):
+    pass
+
+unittest.main()
+```
