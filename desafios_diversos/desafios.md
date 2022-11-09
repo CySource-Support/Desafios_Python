@@ -272,16 +272,16 @@ import unittest
 
 class angleTestCase(unittest.TestCase):
   def test_angle_90(self):
-    self.assert_equals(other_angle(30, 60), 90)
+    self.assertEqual(other_angle(30, 60), 90)
   
   def test_angle_60(self):
-    self.assert_equals(other_angle(60, 60), 60)
+    self.assertEqual(other_angle(60, 60), 60)
 
   def test_angle_59(self):
-    self.assert_equals(other_angle(43, 78), 59)
+    self.assertEqual(other_angle(43, 78), 59)
 
   def test_angle_150(self):
-    self.assert_equals(other_angle(10, 20), 150)
+    self.assertEqual(other_angle(10, 20), 150)
 
 def other_angle(a, b):
     pass
@@ -308,4 +308,65 @@ se `imc <= 30,0` retornar `"Excesso de peso"`
 
 se `imc > 30` retorna `"Obeso"`
 
+#### codigo
+
+```python
+import unittest
+
+class imcTestCase(unitest.TestCase):
+  def test_bmi_Underweight(self):
+    test.assert_equals(bmi(50, 1.80), "Underweight")
+  
+  def test_bmi_Normal(self):
+    test.assertEqual(bmi(80, 1.80), "Normal")
+    test.assertEqual(bmi(50, 1.50), "Normal")
+  
+  def test_bmi_Overweight(self):
+    test.assertEqual(bmi(90, 1.80), "Overweight")
+
+  def test_bmi_Obese(self):
+    test.assertEqual(bmi(110, 1.80), "Obese")
+
+def bmi(weight, height):
+    #your code here
+
+unittest.main()
+  
+```
+
 ---
+
+## Elementos maiores
+
+### Tarefa
+
+Escreva um programa que produza os `n` maiores elementos de uma lista.
+
+**Exemplo:**
+
+```python
+largest(2, [7,6,5,4,3,2,1])
+# => [6,7]
+```
+
+#### codigo
+
+```python
+import unittest
+
+class largestTestCase(unittest.TestCase):
+  def test_largest_two_number(self):
+    self.assert_equals(largest(2,[10,9,8,7,6,5,4,3,2,1]),[9,10])
+  
+  def test_largest_trhee_number(self):
+    self.assert_equals(largest(3,[5,1,5,2,3,1,2,3,5]),[5,5,5])
+  
+  def test_largest_seven_number(self):
+    self.assert_equals(largest(7,[9,1,50,22,3,13,2,63,5]),[3, 5, 9, 13, 22, 50, 63])
+
+def largest(n, xs):
+  """Find the n highest elements in a list"""
+
+
+unittest.mmain()
+```
