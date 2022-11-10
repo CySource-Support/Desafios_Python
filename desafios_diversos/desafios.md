@@ -370,3 +370,49 @@ def largest(n, xs):
 
 unittest.mmain()
 ```
+
+---
+
+## Safen User Input Parte I - htmlspecialchars
+
+### Descrição
+
+Você é um(a) desenvolvedor(a) da Web iniciante/médio/experiente/profissional/mundialmente famoso (escolha um) que possui um site simples/limpo/slick/bonito/complicado/profissional/de negócios (escolha um ou mais) que contém campos de formulário para que os visitantes possam enviar e-mails ou deixar um comentário em seu site com facilidade. No entanto, com facilidade vem o perigo . De vez em quando, um hacker visita seu site e tenta comprometê-lo através do uso de XSS (Cross Site Scripting). Isso é feito injetando script tags no site por meio de campos de formulário que podem conter código malicioso (por exemplo, um redirecionamento para um site malicioso que rouba informações pessoais).
+
+### Tarefa
+
+Sua missão é implementar uma função que converta os seguintes caracteres potencialmente prejudiciais:
+
+ < | \&lt;
+:---:|:---:
+\> | \&gt;
+" | \&quot;
+& | \&amp;
+
+#### codigo
+
+```python
+import unittest
+
+class html_charTestCase(unittest.TestCase):
+  def test_html_char(self):
+    self.assertEqual(html_special_chars("<h2>Hello World</h2>"), "&lt;h2&gt;Hello World&lt;/h2&gt;")
+  
+  def test_html_char_1(self):
+    self.assertEqual(html_special_chars("Hello, how would you & I fare?"), "Hello, how would you &amp; I fare?")
+
+  def test_html_char_2(self):
+    self.assertEqual(html_special_chars('How was "The Matrix"?  Did you like it?'), 'How was &quot;The Matrix&quot;?  Did you like it?')
+
+  def test_html_char_3(self):
+    self.assertEqual(html_special_chars("<script>alert('Website Hacked!');</script>"), "&lt;script&gt;alert('Website Hacked!');&lt;/script&gt;")
+
+def html_special_chars(data): 
+    # your code here
+    pass
+
+unittest.main()
+
+```
+
+---
