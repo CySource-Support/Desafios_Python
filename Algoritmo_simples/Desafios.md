@@ -128,7 +128,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Crie um programa que envia um e-mail para os endereços cadastrados, contendo o resultado da execução do programa do desafio anterior.
 
 ---
-<!--
+
 ## Acesse um Conjuntos de Dados Online
 > Alguns programadores se organizam em comunidades para desenvolver softwares com o objetivo de fiscalizar a Administração Pública nas esferas municipal, estadual e federal.
 >
@@ -145,7 +145,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Crie um programa que acessa um conjunto de dados na Internet, baixa os arquivos e monta uma tabela com as colunas do arquivo utilizado. Em seguida, salve a tabela em um banco de dados SQLite.
 
 ---
-
+<!--
 ## Gere Visualizações de Dados Interessantes
 > Uma vez que você tenha entendido como recuperar e processar conjuntos de dados, chegou a hora de criar visualizações sobre esses dados.
 >
