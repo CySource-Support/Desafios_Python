@@ -97,11 +97,12 @@
 ### Dificuldade Fácil
 - Crie um programa que armazene 10 números digitados pelo usuário em dois vetores: um somente para números pares, e outro somente para números ímpares. Após, exiba os valores dos dois vetores na tela, em sequência. Obs.: As posições que não receberem valores exibirão o número zero. Não se preocupe com isso por enquanto.  
 ---
-<!--
+
 ## Desafio 20
 ### Dificuldade Fácil
 - Modifique o programa anterior para não aceitar a entrada do número zero, e requisitar a digitação de outro número neste caso.  
 ---
+<!--
 ## Desafio 21
 ### Dificuldade Fácil
 - Modifique novamente o programa anterior, de modo a não exibir na saída os números zero que são mostrados para todas as posições que não receberam nenhum valor durante a atribuição (e portanto estão vazias).
