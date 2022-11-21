@@ -145,7 +145,7 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 - Crie um programa que acessa um conjunto de dados na Internet, baixa os arquivos e monta uma tabela com as colunas do arquivo utilizado. Em seguida, salve a tabela em um banco de dados SQLite.
 
 ---
-<!--
+
 ## Gere Visualizações de Dados Interessantes
 > Uma vez que você tenha entendido como recuperar e processar conjuntos de dados, chegou a hora de criar visualizações sobre esses dados.
 >
@@ -157,5 +157,9 @@ Veja um exemplo com um número de 3 dígitos em base 10:
 
 - Usando a lógica do problema anterior, baixe o conjunto de dados de estatísticas da NBA desde 1950 e crie gráficos que demonstrem:
 
+1. A quantidade total de pontos dos 10 maiores pontuadores de cada temporada, ao longo dos anos, comparada com o percentual de jogos em que eles jogaram por temporada (gráfico de linhas).
+
+2. A distribuição da quantidade de bloqueios por altura do jogador, em intervalos de 10 cm de diferença (histograma).
+
+3. A relação entre o número de faltas cometidas e o percentual de lances livres convertidos por jogador, separando por posições (scatter plot).
 ---
--->
