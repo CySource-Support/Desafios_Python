@@ -1,0 +1,27 @@
+import unittest
+
+class angleTestCase(unittest.TestCase):
+  def basic_test_cases():
+    def test_angle_90(test):
+      test.assert_equals(other_angle(30, 60), 90)
+    
+    def test_angle_60(test):
+      test.assert_equals(other_angle(60, 60), 60)
+
+    def test_angle_59(test):
+      test.assert_equals(other_angle(43, 78), 59)
+
+    def test_angle_150(test):
+      test.assert_equals(other_angle(10, 20), 150)
+
+
+
+def calcularArea(base, altura):
+    base = int(input("digite o valor da base do triangulo: "))
+    altura = int(input("digite o valor da altura do triangulo: "))
+    area = (base*altura)/2
+    area = ((base * altura) / 2)
+
+    return area   
+    
+unittest.main()
