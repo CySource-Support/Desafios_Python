@@ -2,7 +2,7 @@
 
 ![Challenges Logo Cysource](.image/logo_Challenges.png)
 
-Estamos postando desafios diarios focados em melhorar a logica de programção, onde vamos abordar os tópicos:
+<!--Estamos postando desafios diarios focados em melhorar a logica de programção, onde vamos abordar os tópicos:
 
 - Segunda-feira - [**Algoritimo simples**](Algoritmo_simples/Desafios.md)
 - Terça-feira - [**Desafios diversos**](desafios_diversos/desafios.md)
@@ -11,7 +11,7 @@ Estamos postando desafios diarios focados em melhorar a logica de programção, 
 - Sexta-feira - [**Desafios diversos**](desafios_diversos/desafios.md)
 
 > Os desafios estão em constantes atualizações!
-
+-->
 ---
 
 ## Em [**discussions**](https://github.com/CySource-Support/Desafios_Python/discussions/1) vai encontrar explicações dos desafios
